@@ -30,8 +30,8 @@ tmp/
 release_notes.txt
 
 # Helm artifacts
-charts/
-*.tgz
+#charts/
+#*.tgz
 tmpcharts/
 tmp-charts/
 _debug.yml
